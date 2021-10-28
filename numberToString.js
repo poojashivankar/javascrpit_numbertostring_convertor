@@ -1,4 +1,6 @@
+//readlinesync library for get console input
 var readlineSync = require('readline-sync');
+//library for conversion
 const { ToWords } = require('to-words');
 
 const toWords = new ToWords();
